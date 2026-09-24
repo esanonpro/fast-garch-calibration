@@ -79,7 +79,7 @@ This repository currently documents the research methodology and results. Reprod
 
 ## Portfolio
 
-[View the visual case study in my ML/AI Engineering portfolio](https://portfolio-git-v2-premium-esanonpro-8143.vercel.app/research/fast-garch-calibration).
+[View the visual case study in my ML/AI Engineering portfolio](https://portfolio-one-cyan-8yt0c8n2m3.vercel.app/research/fast-garch-calibration).
 
 ## Authors
 
